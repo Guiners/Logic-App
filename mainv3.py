@@ -1,4 +1,3 @@
-"""no to kurwa od nowa"""
 zmienne = list()
 wyrazenie = list()
 working = True
